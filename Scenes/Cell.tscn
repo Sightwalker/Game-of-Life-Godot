@@ -1,0 +1,9 @@
+[gd_scene load_steps=2 format=3 uid="uid://c1fifg5j82dwk"]
+
+[sub_resource type="CanvasTexture" id="CanvasTexture_r150o"]
+
+[node name="Cell" type="Node2D"]
+
+[node name="Cell Visual" type="Sprite2D" parent="."]
+modulate = Color(0, 0, 0, 1)
+texture = SubResource("CanvasTexture_r150o")
