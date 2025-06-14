@@ -1,4 +1,4 @@
-# game-of-life
+# Game of Life (Godot)
 A Godot version of Conway's Game of Life
 
 This is a very rudimentary project. There is so much to improve but the main thing is there.
